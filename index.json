@@ -1,0 +1,160 @@
+{
+ "pug": {
+  "title": "Лягушонок",
+  "emoji": "🐸",
+  "file": "pug.tgs",
+  "order": 1,
+  "settings": {
+   "layer": "EMOJI",
+   "skip": [
+    "eye*",
+    "bliki",
+    "блик"
+   ]
+  }
+ },
+ "sg001": {
+  "title": "Корона",
+  "emoji": "👑",
+  "file": "sg001.tgs",
+  "order": 2,
+  "settings": {
+   "layer": "надпись"
+  }
+ },
+ "sg002": {
+  "title": "Мишка с бантом",
+  "emoji": "🧸",
+  "file": "sg002.tgs",
+  "order": 3,
+  "settings": {
+   "layer": "надпись"
+  }
+ },
+ "sg003": {
+  "title": "Глазастик",
+  "emoji": "🪧",
+  "file": "sg003.tgs",
+  "order": 4,
+  "settings": {
+   "layer": "надпись"
+  }
+ },
+ "sg004": {
+  "title": "Плюшевый друг",
+  "emoji": "🎧",
+  "file": "sg004.tgs",
+  "order": 5,
+  "settings": {
+   "layer": "надпись"
+  }
+ },
+ "sg005": {
+  "title": "Рамка",
+  "emoji": "🔲",
+  "file": "sg005.tgs",
+  "order": 6,
+  "settings": {
+   "layer": "надпись"
+  }
+ },
+ "sg006": {
+  "title": "Тучка с нимбом",
+  "emoji": "😇",
+  "file": "sg006.tgs",
+  "order": 7,
+  "settings": {
+   "layer": "надпись"
+  }
+ },
+ "sg007": {
+  "title": "Часы",
+  "emoji": "⌚",
+  "file": "sg007.tgs",
+  "order": 8,
+  "settings": {
+   "layer": "__TEXT__"
+  }
+ },
+ "sg008": {
+  "title": "Клевер",
+  "emoji": "🍀",
+  "file": "sg008.tgs",
+  "order": 9,
+  "settings": {
+   "layer": "надпись"
+  }
+ },
+ "sg009": {
+  "title": "Кепка",
+  "emoji": "🧢",
+  "file": "sg009.tgs",
+  "order": 10,
+  "settings": {
+   "layer": "надпись"
+  }
+ },
+ "sg010": {
+  "title": "Череп",
+  "emoji": "💀",
+  "file": "sg010.tgs",
+  "order": 11,
+  "settings": {
+   "layer": "надпись"
+  }
+ },
+ "sg011": {
+  "title": "Малыш с сердцем",
+  "emoji": "🫶",
+  "file": "sg011.tgs",
+  "order": 12,
+  "settings": {
+   "layer": "надпись"
+  }
+ },
+ "sg012": {
+  "title": "Сердце-обнимашка",
+  "emoji": "🖤",
+  "file": "sg012.tgs",
+  "order": 13,
+  "settings": {
+   "layer": "надпись"
+  }
+ },
+ "sg013": {
+  "title": "Знамя",
+  "emoji": "🚩",
+  "file": "sg013.tgs",
+  "order": 14,
+  "settings": {
+   "layer": "надпись"
+  }
+ },
+ "sg014": {
+  "title": "Выпускник",
+  "emoji": "🎓",
+  "file": "sg014.tgs",
+  "order": 15,
+  "settings": {
+   "layer": "надпись"
+  }
+ },
+ "sg015": {
+  "title": "Решётка",
+  "emoji": "⛓",
+  "file": "sg015.tgs",
+  "order": 16,
+  "settings": {
+   "layer": "надпись"
+  }
+ },
+ "sg016": {
+  "title": "Тачка",
+  "emoji": "🚗",
+  "file": "sg016.tgs",
+  "order": 17,
+  "settings": {
+   "layer": "надпись"
+  }
+ }
+}
