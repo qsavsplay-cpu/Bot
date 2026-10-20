@@ -1,0 +1,160 @@
+{
+ "pug": {
+  "title": "Мопс",
+  "emoji": "🐶",
+  "file": "pug.tgs",
+  "order": 1,
+  "settings": {
+   "layer": "EMOJI",
+   "skip": [
+    "eye*",
+    "bliki",
+    "блик"
+   ]
+  }
+ },
+ "sg001": {
+  "title": "Корона",
+  "emoji": "👑",
+  "file": "sg001.tgs",
+  "order": 2,
+  "settings": {
+   "layer": "надпись"
+  }
+ },
+ "sg002": {
+  "title": "Эмодзи 002",
+  "emoji": "🎭",
+  "file": "sg002.tgs",
+  "order": 3,
+  "settings": {
+   "layer": "надпись"
+  }
+ },
+ "sg003": {
+  "title": "Эмодзи 003",
+  "emoji": "🎭",
+  "file": "sg003.tgs",
+  "order": 4,
+  "settings": {
+   "layer": "надпись"
+  }
+ },
+ "sg004": {
+  "title": "Эмодзи 004",
+  "emoji": "🎭",
+  "file": "sg004.tgs",
+  "order": 5,
+  "settings": {
+   "layer": "надпись"
+  }
+ },
+ "sg005": {
+  "title": "Эмодзи 005",
+  "emoji": "🎭",
+  "file": "sg005.tgs",
+  "order": 6,
+  "settings": {
+   "layer": "надпись"
+  }
+ },
+ "sg006": {
+  "title": "Эмодзи 006",
+  "emoji": "🎭",
+  "file": "sg006.tgs",
+  "order": 7,
+  "settings": {
+   "layer": "надпись"
+  }
+ },
+ "sg007": {
+  "title": "Эмодзи 007",
+  "emoji": "🎭",
+  "file": "sg007.tgs",
+  "order": 8,
+  "settings": {
+   "layer": "__TEXT__"
+  }
+ },
+ "sg008": {
+  "title": "Блеск",
+  "emoji": "✨",
+  "file": "sg008.tgs",
+  "order": 9,
+  "settings": {
+   "layer": "надпись"
+  }
+ },
+ "sg009": {
+  "title": "Эмодзи 009",
+  "emoji": "🎭",
+  "file": "sg009.tgs",
+  "order": 10,
+  "settings": {
+   "layer": "надпись"
+  }
+ },
+ "sg010": {
+  "title": "Череп",
+  "emoji": "💀",
+  "file": "sg010.tgs",
+  "order": 11,
+  "settings": {
+   "layer": "надпись"
+  }
+ },
+ "sg011": {
+  "title": "Эмодзи 011",
+  "emoji": "🎭",
+  "file": "sg011.tgs",
+  "order": 12,
+  "settings": {
+   "layer": "надпись"
+  }
+ },
+ "sg012": {
+  "title": "Эмодзи 012",
+  "emoji": "🎭",
+  "file": "sg012.tgs",
+  "order": 13,
+  "settings": {
+   "layer": "надпись"
+  }
+ },
+ "sg013": {
+  "title": "Эмодзи 013",
+  "emoji": "🎭",
+  "file": "sg013.tgs",
+  "order": 14,
+  "settings": {
+   "layer": "надпись"
+  }
+ },
+ "sg014": {
+  "title": "Эмодзи 014",
+  "emoji": "🎭",
+  "file": "sg014.tgs",
+  "order": 15,
+  "settings": {
+   "layer": "надпись"
+  }
+ },
+ "sg015": {
+  "title": "Эмодзи 015",
+  "emoji": "🎭",
+  "file": "sg015.tgs",
+  "order": 16,
+  "settings": {
+   "layer": "надпись"
+  }
+ },
+ "sg016": {
+  "title": "Фары",
+  "emoji": "🚨",
+  "file": "sg016.tgs",
+  "order": 17,
+  "settings": {
+   "layer": "надпись"
+  }
+ }
+}
